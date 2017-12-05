@@ -5,3 +5,7 @@ h1, h2, h3 {font-weight:bold;}
 
 .header-section {background-image: url(../images/the-flatiron-building.png); background-repeat:no-repeat; text-align: center;color: white;}
 .nav-link {font-size:18px; color:#FFF;}
+.content-section {text-align:center;}
+.content-section h2{font-size:32px;}
+.content-section h3{font-size:23px;}
+.section-item p {font-size:14px;}
